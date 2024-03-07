@@ -201,3 +201,6 @@ Google trend to search what people's r seeing online
 57.whois nee domain name full information
 58. https://cryptocurrencyjobs.co/  - get a remote job as a cryptocurrency 
 59.https://ascii.co.uk/art  - see all the ascii art
+60. https://haveibeenpwned.com/   - seee if ur mail hase been breach in any website
+61.https://ifttt.com/ - automate ur business anf]d home ww use uit
+
