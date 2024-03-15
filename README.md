@@ -189,7 +189,7 @@
 Google trend to search what people's r seeing online
 
 50. Browse.ai use for search or track price on internet
-
+53. huggingface.ai--- we get so muc ai model to train it for u
 51.  Zapier- for api integration  alternative integrately.com  it is free to use inegrate instagram to fb and fb to linked in
 52. Debank.xom for get any person history on crypto
 53. Mailbluster.com for sending email in bulk Ito may peroan
