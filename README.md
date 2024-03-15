@@ -196,7 +196,7 @@ Google trend to search what people's r seeing online
 
 54.Exercism.com-for learning coding
 55.Couch.ai for best ai experience
-
+63.vertex.ai - we can train our dataset ere if we want as per we want.just sellect image detection put ur data set a budget abd doom ur datset is train as u see
 56.buildwith.com see what website being use to build this website
 57.whois nee domain name full information
 58. https://cryptocurrencyjobs.co/  - get a remote job as a cryptocurrency 
