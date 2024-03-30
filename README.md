@@ -203,6 +203,7 @@ Google trend to search what people's r seeing online
 59.https://ascii.co.uk/art  - see all the ascii art
 60. https://haveibeenpwned.com/   - seee if ur mail hase been breach in any website
 61.https://ifttt.com/ - automate ur business anf]d home ww use uit
+63.https://www.creativefabrica.com/search/?query=notebook ------- to download a ggod bookin template
 ![image](https://github.com/mkos11/100-Important-Website/assets/84587772/ea45404a-dfc2-46e1-8b09-3e2b1c6bbaf1)
 
 ![image](https://github.com/mkos11/100-Important-Website/assets/84587772/e87e9384-99ae-481e-8ad5-4acb72dd4753)
