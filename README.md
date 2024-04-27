@@ -208,5 +208,10 @@ Google trend to search what people's r seeing online
 
 ![image](https://github.com/mkos11/100-Important-Website/assets/84587772/8ae7baea-924b-430f-bd6d-56ea019af837)
 
+![image](https://github.com/mkos11/100-Important-Website/assets/84587772/74d53f0a-d0cd-4d2f-a899-8eaa369738c7)
+
+https://wrtn.ai/   all ai at one placw
+
+
 
 ![image](https://github.com/mkos11/100-Important-Website/assets/84587772/e87e9384-99ae-481e-8ad5-4acb72dd4753)
