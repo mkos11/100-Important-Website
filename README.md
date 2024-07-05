@@ -224,3 +224,5 @@ https://www.realtimecolors.com/?colors=031505-f1f1fd-ecebf6-dedcff-433bff&fonts=
 https://typescale.com/------to see real  time fond size in  it
 https://stacksorted.com/buttons-------see all button in it
 https://www.flaticon.com/
+
+https://www.wappalyzer.com/-----see wat te website is made  of\
