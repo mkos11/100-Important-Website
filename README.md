@@ -215,5 +215,12 @@ https://wrtn.ai/   all ai at one placw
 
 
 ![image](https://github.com/mkos11/100-Important-Website/assets/84587772/e87e9384-99ae-481e-8ad5-4acb72dd4753)
-
+ui/ux
 galalio.ai - or ui ux designing purpose 
+behance
+medium
+dribble
+https://www.realtimecolors.com/?colors=031505-f1f1fd-ecebf6-dedcff-433bff&fonts=Inter-Inter_ ---- USE TO SEE REALTIME COLOUR TE WEBSITE WILL LOOK WEN USE A COLOUR IOR TEXT OK
+https://typescale.com/------to see real  time fond size in  it
+https://stacksorted.com/buttons-------see all button in it
+https://www.flaticon.com/
