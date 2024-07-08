@@ -220,6 +220,7 @@ galalio.ai - or ui ux designing purpose
 behance
 medium
 dribble
+https://adplist.org/mentors/madhura-prabhu------- get te free mentor from ere
 https://www.realtimecolors.com/?colors=031505-f1f1fd-ecebf6-dedcff-433bff&fonts=Inter-Inter_ ---- USE TO SEE REALTIME COLOUR TE WEBSITE WILL LOOK WEN USE A COLOUR IOR TEXT OK
 https://typescale.com/------to see real  time fond size in  it
 https://stacksorted.com/buttons-------see all button in it
