@@ -215,7 +215,8 @@ https://wrtn.ai/   all ai at one placw
 
 
 ![image](https://github.com/mkos11/100-Important-Website/assets/84587772/e87e9384-99ae-481e-8ad5-4acb72dd4753)
-ui/ux
+ALL Below are the UI/Ux design website that r use in it
+
 galalio.ai - or ui ux designing purpose 
 behance
 medium
@@ -226,4 +227,7 @@ https://typescale.com/------to see real  time fond size in  it
 https://stacksorted.com/buttons-------see all button in it
 https://www.flaticon.com/
 
-https://www.wappalyzer.com/-----see wat te website is made  of\
+https://www.wappalyzer.com/-----see wat te website is made  of
+
+Bestfolios - UI/UX Design Portfolio Inspiration and Showcase
+
