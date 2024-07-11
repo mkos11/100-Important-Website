@@ -230,4 +230,7 @@ https://www.flaticon.com/
 https://www.wappalyzer.com/-----see wat te website is made  of
 
 Bestfolios - UI/UX Design Portfolio Inspiration and Showcase
+Learn AI from tis 3 soursec
+1.3blue1brown-tranformers
+2.3blue1brown--zero to ero
 
