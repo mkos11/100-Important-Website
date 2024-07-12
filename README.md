@@ -216,7 +216,7 @@ https://wrtn.ai/   all ai at one placw
 
 ![image](https://github.com/mkos11/100-Important-Website/assets/84587772/e87e9384-99ae-481e-8ad5-4acb72dd4753)
 ALL Below are the UI/Ux design website that r use in it
-
+best  uiux design portfolio
 galalio.ai - or ui ux designing purpose 
 behance
 medium
@@ -234,5 +234,6 @@ Learn AI from tis 3 soursec
 1.3blue1brown-tranformers
 2.3blue1brown--zero to ero
 3.![image](https://github.com/mkos11/100-Important-Website/assets/84587772/d0548c66-bf48-4d3e-9719-e8f436ac2c0b)
+4.majestic----- text to image generator
 
 
