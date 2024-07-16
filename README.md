@@ -236,5 +236,4 @@ Learn AI from tis 3 soursec
 3.![image](https://github.com/mkos11/100-Important-Website/assets/84587772/d0548c66-bf48-4d3e-9719-e8f436ac2c0b)
 4.majestic----- text to image generator
 https://japan-dev.com/remote-jobs-in-japan---find remote job in japan
-
-
+https://www.classcentral.com/subject/ai----- free ai/ml courses here
