@@ -237,3 +237,5 @@ Learn AI from tis 3 soursec
 4.majestic----- text to image generator
 https://japan-dev.com/remote-jobs-in-japan---find remote job in japan
 https://www.classcentral.com/subject/ai----- free ai/ml courses here
+https://portfolio-abhishekyadav.netlify.app/
+
