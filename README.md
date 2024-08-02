@@ -238,4 +238,6 @@ Learn AI from tis 3 soursec
 https://japan-dev.com/remote-jobs-in-japan---find remote job in japan
 https://www.classcentral.com/subject/ai----- free ai/ml courses here
 https://portfolio-abhishekyadav.netlify.app/
+5.Claude 3.5 sonnet is ggod to  ake it
+
 
