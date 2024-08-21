@@ -239,5 +239,10 @@ https://japan-dev.com/remote-jobs-in-japan---find remote job in japan
 https://www.classcentral.com/subject/ai----- free ai/ml courses here
 https://portfolio-abhishekyadav.netlify.app/
 5.Claude 3.5 sonnet is ggod to  ake it
+3.Dora.ai-Construct UI For Ur Website and UR app
+eraser.io-Create Flowchart For Studdy Devopment
 
 
+Website Building Tools
+1.https://www.relume.io/ --- construct all wireframe of the Website
+2.10web.io-Construct Website in a minute
