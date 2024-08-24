@@ -246,3 +246,9 @@ eraser.io-Create Flowchart For Studdy Devopment
 Website Building Tools
 1.https://www.relume.io/ --- construct all wireframe of the Website
 2.10web.io-Construct Website in a minute
+
+
+
+To Learn Design Pattern use tis website 
+1. -https://refactoring.guru/design-patterns/why-learn-patterns
+2. https://github.com/ashishps1/awesome-system-design-resources
