@@ -255,3 +255,6 @@ To Learn Design Pattern use tis website
 
 DSAvideo  importtant
 1.https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+
+Automation website
+1.https://testautomationu.applitools.com/
